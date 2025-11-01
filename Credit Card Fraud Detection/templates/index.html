@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Credit Card Fraud Detection</title>
+</head>
+<body>
+    <h1>Credit Card Fraud Detection</h1>
+    
+    <h2>Predict a Transaction</h2>
+    <form action="/predict" method="post">
+        {% for col in columns %}
+        <label>{{ col }}:</label>
+        <input type="number" step="any" name="{{ col }}" required><br>
+        {% endfor %}
+        <br>
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if prediction %}
+        <h3>Prediction: {{ prediction }}</h3>
+    {% endif %}
+</body>
+</html>

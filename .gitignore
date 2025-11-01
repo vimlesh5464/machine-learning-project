@@ -1,0 +1,9 @@
+.DS_Store
+SMS_Spam_Classifier/venv/
+.DS_Store
+.DS_Store
+*/venv/
+*.fasta
+*.csv
+.DS_Store
+*/venv/

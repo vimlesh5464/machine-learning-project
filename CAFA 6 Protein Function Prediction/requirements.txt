@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+tensorflow 
+biopython
+matplotlib
+seaborn
+torch 
+torchvision 
+torchaudio
+transformers
+
