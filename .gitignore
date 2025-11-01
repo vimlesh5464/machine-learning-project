@@ -7,3 +7,8 @@ SMS_Spam_Classifier/venv/
 *.csv
 .DS_Store
 */venv/
+*.pdf
+*.html
+*.png
+*.gif
+*.tsv
