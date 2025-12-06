@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: FakeNewsClassifier
+Version: 0.0.1
+Summary: A machine learning package for detecting fake news using NLP and ML pipelines.
+Home-page: https://github.com/vimleshgupta/FakeNewsClassifier
+Author: Vimlesh Gupta
+Author-email: vimleshgupta@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: nltk
+Requires-Dist: flask
+Requires-Dist: joblib
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

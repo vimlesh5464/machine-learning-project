@@ -1,0 +1,10 @@
+README.md
+setup.py
+FakeNewsClassifier.egg-info/PKG-INFO
+FakeNewsClassifier.egg-info/SOURCES.txt
+FakeNewsClassifier.egg-info/dependency_links.txt
+FakeNewsClassifier.egg-info/requires.txt
+FakeNewsClassifier.egg-info/top_level.txt
+src/__init__.py
+src/exception.py
+src/logger.py
